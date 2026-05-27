@@ -1,15 +1,15 @@
 
-# TRAC — Habit Tracker
+# TRACKK — Habit Tracker
 
 > **Build consistency. Track progress. Stay accountable.**
 
-TRAC is a full-stack web application built with Django that enables users to create, track, and analyse personal habits. The system supports both daily and weekly habit cycles, automatically computes streak metrics, and provides a clean, responsive interface for long-term habit management.
+TRACKK is a full-stack web application built with Django that enables users to create, track, and analyse personal habits. The system supports both daily and weekly habit cycles, automatically computes streak metrics, and provides a clean, responsive interface for long-term habit management.
 
 ---
 
 ## Overview
 
-TRAC is designed around a simple principle: **consistency over intensity**. The application provides users with actionable insights into their behaviour through streak tracking, historical visualization, and structured habit categorisation.
+TRACKK is designed around a simple principle: **consistency over intensity**. The application provides users with actionable insights into their behaviour through streak tracking, historical visualization, and structured habit categorisation.
 
 Each user operates in an isolated environment where they can:
 
@@ -74,12 +74,12 @@ Each user operates in an isolated environment where they can:
 
 ## Architecture & Design
 
-TRAC follows a **modular, layered architecture** consistent with standard Django practices.
+TRACKK follows a **modular, layered architecture** consistent with standard Django practices.
 
 ### Application Structure
 
 ```
-trac/
+TRACKK/
 ├── habit/                # Core domain logic (models, views, tests)
 ├── habit_tracker/        # Project configuration
 ├── templates/            # Presentation layer
@@ -162,7 +162,7 @@ Represents a completed instance of a habit.
 
 ```bash
 git clone <repository-url>
-cd trac
+cd into working repository 
 ```
 
 ---
