@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TRAC — Habit Tracker
 
 > **Build consistency. Track progress. Stay accountable.**
